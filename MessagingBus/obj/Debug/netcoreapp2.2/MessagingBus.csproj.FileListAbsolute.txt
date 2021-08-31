@@ -1,0 +1,9 @@
+C:\Personal\PrintDeliverySystem\MessagingBus\bin\Debug\netcoreapp2.2\MessagingBus.deps.json
+C:\Personal\PrintDeliverySystem\MessagingBus\bin\Debug\netcoreapp2.2\MessagingBus.dll
+C:\Personal\PrintDeliverySystem\MessagingBus\bin\Debug\netcoreapp2.2\MessagingBus.pdb
+C:\Personal\PrintDeliverySystem\MessagingBus\obj\Debug\netcoreapp2.2\MessagingBus.csprojAssemblyReference.cache
+C:\Personal\PrintDeliverySystem\MessagingBus\obj\Debug\netcoreapp2.2\MessagingBus.csproj.CoreCompileInputs.cache
+C:\Personal\PrintDeliverySystem\MessagingBus\obj\Debug\netcoreapp2.2\MessagingBus.AssemblyInfoInputs.cache
+C:\Personal\PrintDeliverySystem\MessagingBus\obj\Debug\netcoreapp2.2\MessagingBus.AssemblyInfo.cs
+C:\Personal\PrintDeliverySystem\MessagingBus\obj\Debug\netcoreapp2.2\MessagingBus.dll
+C:\Personal\PrintDeliverySystem\MessagingBus\obj\Debug\netcoreapp2.2\MessagingBus.pdb

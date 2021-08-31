@@ -1,0 +1,17 @@
+C:\Personal\PrintDeliverySystem\Request\bin\Debug\netcoreapp2.2\Request.deps.json
+C:\Personal\PrintDeliverySystem\Request\bin\Debug\netcoreapp2.2\Request.runtimeconfig.json
+C:\Personal\PrintDeliverySystem\Request\bin\Debug\netcoreapp2.2\Request.runtimeconfig.dev.json
+C:\Personal\PrintDeliverySystem\Request\bin\Debug\netcoreapp2.2\Request.dll
+C:\Personal\PrintDeliverySystem\Request\bin\Debug\netcoreapp2.2\Request.pdb
+C:\Personal\PrintDeliverySystem\Request\obj\Debug\netcoreapp2.2\Request.csproj.CoreCompileInputs.cache
+C:\Personal\PrintDeliverySystem\Request\obj\Debug\netcoreapp2.2\Request.RazorAssemblyInfo.cache
+C:\Personal\PrintDeliverySystem\Request\obj\Debug\netcoreapp2.2\Request.RazorAssemblyInfo.cs
+C:\Personal\PrintDeliverySystem\Request\obj\Debug\netcoreapp2.2\Request.AssemblyInfoInputs.cache
+C:\Personal\PrintDeliverySystem\Request\obj\Debug\netcoreapp2.2\Request.AssemblyInfo.cs
+C:\Personal\PrintDeliverySystem\Request\obj\Debug\netcoreapp2.2\Request.RazorTargetAssemblyInfo.cache
+C:\Personal\PrintDeliverySystem\Request\obj\Debug\netcoreapp2.2\Request.dll
+C:\Personal\PrintDeliverySystem\Request\obj\Debug\netcoreapp2.2\Request.pdb
+C:\Personal\PrintDeliverySystem\Request\obj\Debug\netcoreapp2.2\Request.csprojAssemblyReference.cache
+C:\Personal\PrintDeliverySystem\Request\bin\Debug\netcoreapp2.2\MessagingBus.dll
+C:\Personal\PrintDeliverySystem\Request\bin\Debug\netcoreapp2.2\MessagingBus.pdb
+C:\Personal\PrintDeliverySystem\Request\obj\Debug\netcoreapp2.2\Request.csproj.CopyComplete

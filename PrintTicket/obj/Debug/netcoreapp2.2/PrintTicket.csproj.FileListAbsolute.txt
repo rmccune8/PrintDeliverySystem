@@ -1,0 +1,17 @@
+C:\Personal\PrintDeliverySystem\PrintTicket\bin\Debug\netcoreapp2.2\PrintTicket.deps.json
+C:\Personal\PrintDeliverySystem\PrintTicket\bin\Debug\netcoreapp2.2\PrintTicket.runtimeconfig.json
+C:\Personal\PrintDeliverySystem\PrintTicket\bin\Debug\netcoreapp2.2\PrintTicket.runtimeconfig.dev.json
+C:\Personal\PrintDeliverySystem\PrintTicket\bin\Debug\netcoreapp2.2\PrintTicket.dll
+C:\Personal\PrintDeliverySystem\PrintTicket\bin\Debug\netcoreapp2.2\PrintTicket.pdb
+C:\Personal\PrintDeliverySystem\PrintTicket\obj\Debug\netcoreapp2.2\PrintTicket.csprojAssemblyReference.cache
+C:\Personal\PrintDeliverySystem\PrintTicket\obj\Debug\netcoreapp2.2\PrintTicket.csproj.CoreCompileInputs.cache
+C:\Personal\PrintDeliverySystem\PrintTicket\obj\Debug\netcoreapp2.2\PrintTicket.RazorAssemblyInfo.cache
+C:\Personal\PrintDeliverySystem\PrintTicket\obj\Debug\netcoreapp2.2\PrintTicket.RazorAssemblyInfo.cs
+C:\Personal\PrintDeliverySystem\PrintTicket\obj\Debug\netcoreapp2.2\PrintTicket.AssemblyInfoInputs.cache
+C:\Personal\PrintDeliverySystem\PrintTicket\obj\Debug\netcoreapp2.2\PrintTicket.AssemblyInfo.cs
+C:\Personal\PrintDeliverySystem\PrintTicket\obj\Debug\netcoreapp2.2\PrintTicket.RazorTargetAssemblyInfo.cache
+C:\Personal\PrintDeliverySystem\PrintTicket\obj\Debug\netcoreapp2.2\PrintTicket.dll
+C:\Personal\PrintDeliverySystem\PrintTicket\obj\Debug\netcoreapp2.2\PrintTicket.pdb
+C:\Personal\PrintDeliverySystem\PrintTicket\bin\Debug\netcoreapp2.2\MessagingBus.dll
+C:\Personal\PrintDeliverySystem\PrintTicket\bin\Debug\netcoreapp2.2\MessagingBus.pdb
+C:\Personal\PrintDeliverySystem\PrintTicket\obj\Debug\netcoreapp2.2\PrintTicket.csproj.CopyComplete

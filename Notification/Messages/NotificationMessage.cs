@@ -1,0 +1,12 @@
+﻿using MessagingBus.Model;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace Notification.Messages
+{
+    public class NotificationMessage : BaseMessage
+    {
+    }
+}
